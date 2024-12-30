@@ -1,0 +1,15 @@
+{
+  "common": {
+    "title": "Allgemein",
+    "logos": {
+      "example1": {
+        "title": "Example 1",
+        "default": "./example1.png"
+      },
+      "example2": {
+        "title": "Example 2",
+        "default": "./example2.png"
+      }
+    }
+  }
+}
